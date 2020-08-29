@@ -9,5 +9,6 @@ int main()
     printf("%d",a);
     printf("commit1");
     printf("commit2");
+    printf("commit3");
     return 0;
 }
