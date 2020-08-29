@@ -2,11 +2,11 @@
 
 int main() 
 {
-    int a;
-    scanf("%d",&a);
+    int a;    
     
     printf("Hello World!");
     
     printf("%d",a);
+    printf("commit1");
     return 0;
 }
